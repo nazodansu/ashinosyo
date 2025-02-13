@@ -1,0 +1,17 @@
+div {
+    padding: 10px 50px 20px;
+    border: 1px;
+    border-style: solid;
+}
+
+.koutyo_game_koukoku {
+    background: linear-gradient(130deg, rgba(247, 247, 247, 0.6), rgba(187, 186, 183, 0.6)),
+    url(koutyo_game_koukoku.svg);
+    background-position: center;
+}
+
+.zikanwari {
+    background: linear-gradient(130deg, rgba(247, 247, 247, 0.6), rgb(126, 171, 255)),
+    url();
+    background-position: center;
+}
